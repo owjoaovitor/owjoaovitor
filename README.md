@@ -2,7 +2,7 @@
 
 - 📚 Estudando Python, SQL e React
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 💼 Help Desk e Front-end
+- 💼 Help Desk e Front-end 
 - 🎮 FPS e MOBA
 
 
