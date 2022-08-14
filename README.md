@@ -24,7 +24,7 @@
 <div> 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-41693a232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a
  <br>
-<a href="https://memoria.joaovitormsilva.repl.co" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" ></a
+<a href="https://memoria.joaovitormsilva.repl.co" target="_blank"><img src="https://img.shields.io/badge/jogodamemoria-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" ></a
 </div>
 
 ![snake gif](https://github.com/owjoaovitor/owjoaovitor/blob/output/github-contribution-grid-snake.svg)
