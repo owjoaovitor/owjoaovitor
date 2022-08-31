@@ -1,6 +1,6 @@
 ### Sobre mim
 
-- 📚 Estudando Python, SQL e React
+- 📚 Estudando Python e SQL Server 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 💼 Help Desk e Front-end 
 - 🎮 Valorant e Lolzin
