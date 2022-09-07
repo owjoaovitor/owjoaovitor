@@ -1,9 +1,8 @@
 ### Sobre mim
 
-- 📚 Study Python, SQL Server and English 
+- 📚 Estudando Python, SQL Server e English 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 💼 Help Desk e Front-end 
-- 🎮 Valorant e Lolzin
 
 
 <div align="center">
