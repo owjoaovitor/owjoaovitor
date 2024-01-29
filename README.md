@@ -10,7 +10,7 @@
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="PHP"    height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>   
   <img align="center" alt="mysql"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>   
-  <img align="right"  alt="emoji"  height="100" src= "https://https://83027b03-b04e-4a5f-bb70-9e7f379ecd4b-00-3ehcdkdaqboum.kirk.replit.dev/img/icones.png"/>
+  <img align="right"  alt="emoji"  height="100" src= "/img/icones.png"/>
 </div>
 
  ##
@@ -18,5 +18,5 @@
  <br>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-41693a232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a
  <br>
-    <a href="https://portfolio.joaovitormsilva.repl.co" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true.me&logoColor=white" target="_blank"></a>
+    <a href="https://83027b03-b04e-4a5f-bb70-9e7f379ecd4b-00-3ehcdkdaqboum.kirk.replit.dev" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-brown?style=for-the-badge&logo=true.me&logoColor=white" target="_blank"></a>
 </div>
